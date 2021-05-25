@@ -1,0 +1,1 @@
+This is Canvas related project using React, Redux with React Konva, where you can draw lines, circles and convert line to a quadratic curve and we can edit the curve using control points

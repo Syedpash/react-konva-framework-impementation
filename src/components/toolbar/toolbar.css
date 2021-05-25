@@ -1,0 +1,11 @@
+span {
+    margin-left :10px;
+    font-size: 20px;
+   }
+   span:hover {
+     font-weight: bold;
+     cursor: pointer;
+   }
+.selected {
+  font-weight: bold;
+}
